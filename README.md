@@ -77,3 +77,6 @@ piece of text is a lookup by id rather than a path walk.
 With more time: a real database with version history, optimistic concurrency on save, an
 actual LLM behind the generator returning the same JSON contract, and add/remove/reorder of
 nodes rather than text-only editing.
+
+
+LIVE PREVIEW: https://section-builder-mu.vercel.app/
